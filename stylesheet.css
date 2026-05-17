@@ -38,6 +38,9 @@ ol {
 
 .book-title {
     padding-top: 1rem;
+}
+
+.book-title h1 {
     font-weight: 200;
 }
 
